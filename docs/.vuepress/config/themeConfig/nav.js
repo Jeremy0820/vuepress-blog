@@ -6,12 +6,12 @@ module.exports = [
     link: '/python/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
-      { text: 'Python基础', link: '/pages/123456781/' },
-      { text: 'Python进阶', link: '/pages/123456782/' },
-      { text: 'Flask框架', link: '/pages/123456783/' },
-      { text: 'Django框架', link: '/pages/123456784/' },
-      { text: '爬虫', link: '/pages/123456785/' },
-      { text: '数据分析', link: '/pages/123456785/' }
+      { text: 'Python基础', link: '/pages/ccf2d6/' },
+      { text: 'Python进阶', link: '' },
+      { text: 'Flask框架', link: '' },
+      { text: 'Django框架', link: '' },
+      { text: '爬虫', link: '' },
+      { text: '数据分析', link: '' }
     ]
   },
   {
@@ -19,10 +19,10 @@ module.exports = [
     link: '/frontend/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
-      { text: 'HTML', link: '/pages/123456781/' },
-      { text: 'CSS', link: '/pages/123456782/' },
-      { text: 'JavaScript', link: '/pages/123456783/' },
-      { text: 'Vue', link: '/pages/123456784/' }
+      { text: 'HTML', link: '' },
+      { text: 'CSS', link: '' },
+      { text: 'JavaScript', link: '' },
+      { text: 'Vue', link: '' }
     ]
   },
   {
@@ -30,9 +30,9 @@ module.exports = [
     link: '/db/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
-      { text: 'MySQL', link: '/pages/123456781/' },
-      { text: 'Redis', link: '/pages/123456782/' },
-      { text: 'MongoDB', link: '/pages/123456783/' }
+      { text: 'MySQL', link: '' },
+      { text: 'Redis', link: '' },
+      { text: 'MongoDB', link: '' }
     ],
   },
   {
