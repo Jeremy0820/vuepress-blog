@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5597b74-02ff-43fb-8bd0-365e7455a11f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/7.语句之循环语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.python/01.Python基础/7.语句之循环语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/8.函数之自定义函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.python/01.Python基础/8.函数之自定义函数.md" afterDir="false" />
-    </list>
+    <list default="true" id="b5597b74-02ff-43fb-8bd0-365e7455a11f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <workItem from="1619765946654" duration="1959000" />
       <workItem from="1619787163419" duration="4772000" />
       <workItem from="1619871600720" duration="197000" />
-      <workItem from="1619871834194" duration="2126000" />
+      <workItem from="1619871834194" duration="2381000" />
     </task>
     <servers />
   </component>
