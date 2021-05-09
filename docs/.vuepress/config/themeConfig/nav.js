@@ -40,7 +40,7 @@ module.exports = [
     link: '/testing/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
-      { text: '测试基础理论', link: '' },
+      { text: '测试基础理论', link: '/pages/a7dba7/' },
       { text: '接口测试', link: '' },
       { text: '性能测试', link: '' },
       { text: 'UI自动化测试', link: '' },
