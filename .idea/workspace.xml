@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5597b74-02ff-43fb-8bd0-365e7455a11f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/04.Testing/01.测试基础理论/1.软件开发与测试基础理论.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.Testing/01.测试基础理论/1.软件开发与测试基础理论.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-3.js" beforeDir="false" />
@@ -17,6 +18,8 @@
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/4b0ce0bf5149ba920dfb8afdc23f9cb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/4b0ce0bf5149ba920dfb8afdc23f9cb8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/50d213d7c68bb30b68110476cf1f6ea3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/50d213d7c68bb30b68110476cf1f6ea3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5afe8f265584ca82a7c6ad510adf3a22.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5afe8f265584ca82a7c6ad510adf3a22.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6c95bf218e9edb54afa5d5d1451e17f1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6c95bf218e9edb54afa5d5d1451e17f1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6f20b3eec006919a179bcbd829c3b1ee.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6f20b3eec006919a179bcbd829c3b1ee.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6f9dc89f465235022bde7ae4547b7f28.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6f9dc89f465235022bde7ae4547b7f28.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/8ee6c123849016463b44eb3c540e77c9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/8ee6c123849016463b44eb3c540e77c9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9d85b8ee1153dc097e9ec2365ea7d91e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9d85b8ee1153dc097e9ec2365ea7d91e.json" afterDir="false" />
@@ -89,7 +92,7 @@
       <workItem from="1619871600720" duration="197000" />
       <workItem from="1619871834194" duration="2817000" />
       <workItem from="1620261421375" duration="589000" />
-      <workItem from="1620563490400" duration="737000" />
+      <workItem from="1620563490400" duration="881000" />
     </task>
     <servers />
   </component>
