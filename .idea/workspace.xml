@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5597b74-02ff-43fb-8bd0-365e7455a11f" name="Default Changelist" comment="" />
+    <list default="true" id="b5597b74-02ff-43fb-8bd0-365e7455a11f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/EB-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/EB-logo.png.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/Snipaste_2021-04-29_10-50-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/Snipaste_2021-04-29_18-46-40-9693366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/Snipaste_2021-04-29_18-46-40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210428195024394-9611659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210428195024394.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210504210158926-0133400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210504210158926-20210504210331285.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210504210158926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/01.Python基础/images/image-20210504213315702.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.DataBase/01.MySQL/01.MySQL基础/1.数据库介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.DataBase/01.MySQL/01.MySQL基础/1.数据库介绍.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/img" />
       <recent name="$PROJECT_DIR$/docs/01.python/05.爬虫/01.爬虫基础篇" />
       <recent name="$PROJECT_DIR$/docs/04.Testing" />
     </key>
@@ -63,6 +78,8 @@
       <workItem from="1620261421375" duration="589000" />
       <workItem from="1620563490400" duration="881000" />
       <workItem from="1620785598968" duration="2997000" />
+      <workItem from="1626883170550" duration="133000" />
+      <workItem from="1629376602258" duration="1756000" />
     </task>
     <servers />
   </component>

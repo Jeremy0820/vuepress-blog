@@ -52,7 +52,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+    avatar: 'https://cdn.jsdelivr.net/gh/Jeremy0820/blogpic/blog/221629377241_.pic.png',
     name: '于建财',
     slogan: '爱分享, 爱生活!',
   },
@@ -81,7 +81,7 @@ module.exports = {
     // 页脚信息
     createYear: 2016, // 博客创建年份
     copyrightInfo:
-      '于建财 | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">京ICP备2021014986号\n</a>', // 博客版权信息，支持a标签
+      '于建财 | <a href="" target="_blank">京ICP备2021014986号\n</a>', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }
